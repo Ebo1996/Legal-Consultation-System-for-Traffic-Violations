@@ -1,3 +1,4 @@
+<h1>AI EXPERT SYSTEM<h1>
 <h2>Legal Consultation System for Traffic Violations</h2>
 <img src="https://img.shields.io/badge/Project-Type-AI%20Expert%20System-blue" alt="Project Type: AI Expert System" />
 <img src="https://img.shields.io/badge/Language-Prolog-yellow" alt="Language: Prolog" />
@@ -73,7 +74,7 @@ You are flagged as a habitual offender.
   <li><strong>Type:</strong> AI Expert System</li>
   <li><strong>Language:</strong> Prolog</li>
   <li><strong>Topic:</strong> Traffic Law Advisory</li>
-  <li><strong>Author:</strong> [Your Name Here]</li>
+  <li><strong>developed by:Ebisa Berhanu</strong> </li>
 </ul>
 
 <h3>🔒 Disclaimer:</h3>
